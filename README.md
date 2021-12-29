@@ -26,9 +26,10 @@ This package contains three subpackages:
   Containing the functions for the step size control algorithm that estimates the local discretization error after a given number of model years and adapt accordingly the time step.
 - timesteps:
   Containing functions to use larger time steps for the spin-up calculation.
-  
-  
-  ### Python scripts
+
+
+
+### Python scripts
 
 Python scripts exist for the applications to start the simulations and evaluate them.
 
