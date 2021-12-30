@@ -9,14 +9,14 @@ with open("README.md", mode='r', encoding='utf-8') as fh:
 
 #Setup
 setuptools.setup(
-    name = 'metos3dtimesteps',
+    name = 'timesteps',
     version = '0.0.1',
     author = 'Markus Pfeil',
     author_email = 'mpf@informatik.uni-kiel.de',
     description = 'Functions for the simulation with Metos3d using different time steps',
     long_description = long_description,
     long_description_content_type = 'text/markdown',
-    url = 'https://github.com/slawig/bgc-ann/tree/master/timesteps',
+    url = 'https://github.com/slawig/bgc-timesteps/tree/main/timesteps',
     license='AGPL',
     packages = setuptools.find_packages(),
     classifiers=[
