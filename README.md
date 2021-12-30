@@ -14,6 +14,8 @@ To clone this project with **git** run:
 
 The project consists of the Python package timesteps and Python scripts to start the simulation using different time steps in the directory TimestepsSimulation.
 
+The Python packages util is available in the repository https://github.com/slawig/bgc-util.git.
+
 
 ### Python package timesteps
 
